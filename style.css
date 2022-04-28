@@ -1,0 +1,34 @@
+body{
+	background-color: #d9d8d8;	
+	}
+
+h1{
+	text-align:center;
+	border: 8px blue doubl;
+	border-radius:0px 15px 15px 0px;
+	background-color: #dc8e8e;
+	box-shadow: 6px 6px 0px gray;
+	font-size=70px
+	font-family: Arial Black;
+}
+
+h2{
+	text-align:center;
+	border: 8px blue doubl;
+	border-radius:0px 15px 15px 0px;
+	background-color: #EAE7E7;
+	box-shadow: 6px 6px 0px gray;
+	font-size=70px
+	font-family: Arial Black;
+}
+
+div1{
+		background-color: RGBa(200, 200, 000, 0.2)
+		
+}
+
+p{
+		background-color: #EAE7E7;
+		
+}
+

@@ -1,0 +1,21 @@
+
+
+<html>
+	<head>
+		<title>Mon premier site Web</title>
+		<body bgcolor=#dddddd>
+		<body background=>
+	</head>
+
+	<body>
+		<p>Hourra ! Mon premier site Web !</p>
+		<br>
+		<i><blink>Voici un texte en italique></blink></i>
+		<br>
+		<small>Voici un texte diminué></small>
+		<br>
+		<b><i>Voici un texte en gras et itlalique></i></b>
+
+	</body>
+
+</html>
